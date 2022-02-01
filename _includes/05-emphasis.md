@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Remy The Rat*
+_Remy The Rat_
+
+**Remy The Rat**
+__TRemy The Rat__
+
+_Remy **The** Rat_
